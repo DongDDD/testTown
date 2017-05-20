@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Top-Down SF/Demo/Demo1_realtime.unity
+  isLoaded: 1
+  isActive: 1
